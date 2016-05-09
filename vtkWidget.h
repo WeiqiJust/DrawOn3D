@@ -51,6 +51,8 @@
 #include <vtkInteractorStyleTrackballCamera.h>
 
 #include <vtkImageCanvasSource2D.h>
+#include <vtkImageBlend.h>
+#include <vtkRegularPolygonSource.h>
 
 #include "vtkView.h"
 
